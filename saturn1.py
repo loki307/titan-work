@@ -3,3 +3,5 @@ mimas
 dione
 rhca
 hyperion
+laptop
+acerwindows
